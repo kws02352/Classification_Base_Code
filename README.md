@@ -1,4 +1,4 @@
-# pstage_02_image_classification
+# Base Code for Classification
 
 ## Getting Started    
 ### Dependencies
